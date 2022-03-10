@@ -10,3 +10,5 @@ Directions: Empty bags over meadow area during designated times
 Meal: 1 bag animal pellets, 1 bag dried fruit, 1/2 bag cashews, 5 carrots, 3 stalks kale
 Times: 8:00 am
 Directions: disperse contents throughout Chinchilla habitat
+-It's a good practice to "Commit Early And Often"
+     -Never go with single large commit, Pefer incremental commits so that you can revert only particular change.
